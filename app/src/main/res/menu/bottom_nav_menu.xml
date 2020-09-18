@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/navigation_monster"
+    android:title="@string/title_pizza"
+    android:icon="@drawable/ic_pizza"/>
+
+<item android:id="@+id/navigation_slug"
+    android:title="@string/title_cake"
+    android:icon="@drawable/ic_cake"/>
+
+</menu>
